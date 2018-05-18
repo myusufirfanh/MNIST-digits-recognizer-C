@@ -6,7 +6,7 @@ To compile:
 
 and run the generated executable
 
-#Information 
+# Information 
 
 * The data for training is in IDX format. You can read about it here: http://yann.lecun.com/exdb/mnist/
 
